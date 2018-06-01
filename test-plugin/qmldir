@@ -1,0 +1,2 @@
+module RePlay.TestPlugin
+plugin test-plugin
